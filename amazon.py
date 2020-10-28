@@ -4,8 +4,8 @@ import os
 from datetime import datetime
 from selenium import webdriver
 
-LOGIN_ID = 'kitatakisan@gmail.com'
-LOGIN_PASSWORD = 'kenta3054'
+LOGIN_ID = '***'
+LOGIN_PASSWORD = '***'
 
 ITEM_URL = 'https://www.amazon.co.jp/%E4%BB%BB%E5%A4%A9%E5%A0%82-%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC-Switch/dp/B07XV8VSZT/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3UB7LC2MWWEYP&dchild=1&keywords=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC&qid=1597763365&sprefix=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%2Caps%2C273&sr=8-1'
 
